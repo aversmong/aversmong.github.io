@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aversmong.github.io/sitemap
+Sitemap: https://aversmong.github.io/app/sitemap
+Sitemap: https://aversmong.github.io/assets/sitemap
+Sitemap: https://aversmong.github.io/css/sitemap
+Sitemap: https://aversmong.github.io/includes/sitemap
+Sitemap: https://aversmong.github.io/item/sitemap
+Sitemap: https://aversmong.github.io/src/sitemap
